@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Yousfi Wissem !
 Software Engineering Student | Competitive Programmer
 ## About Me
-# I am a passionate software engineering student with a strong interest in competitive programming. I love solving complex problems and continuously improving my coding skills. 
+ I am a passionate software engineering student with a strong interest in competitive programming. I love solving complex problems and continuously improving my coding skills. 
 🌱 I’m currently learning Blockchain technologie .
+
 🤔 I’m looking to explore the field of Date Science and IA .
 ## Contact Me :
 
