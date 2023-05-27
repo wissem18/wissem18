@@ -6,8 +6,7 @@ Software Engineering Student | Competitive Programmer
 🌱 I’m currently learning Blockchain technologie .
 🤔 I’m looking to explore the field of Date Science and IA .
 ## Contact Me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Profile-green)](https://www.linkedin.com/in/your-profile)
-
+https://www.linkedin.com/in/wissem-yousfi/
 <!--
 **wissem18/wissem18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
