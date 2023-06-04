@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain technologie**
 
-- 👯 I’m looking to explore the world of **Data Science and IA**
+- 👯 I’m looking to explore the world of **Data Science and AI**
 
 - 📫 How to reach me **wissem.yousfi@insat.ucar.tn**
 
