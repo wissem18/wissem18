@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wissem Yousfi</h1>
 <h3 align="center">a passionate software engineering student with a strong interest in competitive programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wissem18&label=Profile%20views&color=0e75b6&style=flat" alt="wissem18" /> </p>
+
 
 - 🔭 I love solving complex problems and continuously improving **my coding skills**
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to explore the world of **Data Science and AI**
 
 - 📫 How to reach me **wissem.yousfi@insat.ucar.tn**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wissem18&label=Profile%20views&color=0e75b6&style=flat" alt="wissem18" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/WissemYousfi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wissemyousfi2" height="30" width="40" /></a>
