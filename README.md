@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wissem Yousfi</h1>
-<h3 align="center">A 5th-year Software Engineering student, AI enthusiast, and competitive programmer passionate about innovation and impactful solutions.</h3>
+<h3 align="center">A final year SWE student, AI enthusiast, and competitive programmer passionate about innovation and impactful solutions.</h3>
 
 
 - 🔭 I’m currently working on building **AI systems** with a focus on **LLMs, NLP**, and **Data Science**.
